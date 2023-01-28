@@ -1,1 +1,4 @@
-TEst
+<?xml version="1.0"?>
+<Test>
+  <title>Test title</title>
+</Test>
